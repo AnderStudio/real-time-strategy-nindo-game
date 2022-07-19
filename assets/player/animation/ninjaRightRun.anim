@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ninjaRightRun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "53739eb1-ba67-49f9-b354-a62f1ea369fa"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "5d234ee9-a4ee-46ee-bc92-6aa81ec19dd6"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "1c27b5eb-3281-4eff-9e21-fe8cd0dff3b6"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9e74434a-d04d-4228-9c62-0ae20961fd00"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

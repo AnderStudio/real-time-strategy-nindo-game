@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ninjaLeftRun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fb5cee1c-83fa-4845-8ed7-81432779f48d"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ea30f77e-7a81-4545-9646-64045475ad7d"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "5a371790-ee09-40ab-b7df-51af14a48029"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "448528af-9142-4aec-af0b-2c15c60c2efa"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "5a371790-ee09-40ab-b7df-51af14a48029"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "ea30f77e-7a81-4545-9646-64045475ad7d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

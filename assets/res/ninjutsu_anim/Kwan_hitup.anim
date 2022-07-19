@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Kwan_hitup",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.7,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c5809d41-627c-44df-afa6-6c2652d22703"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "5768b6fe-8d2b-40da-b848-ba6759b28ac8"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "5768b6fe-8d2b-40da-b848-ba6759b28ac8"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.2,
+          "curve": [
+            1.1145645645645643,
+            0.007207207207207245,
+            1.004054054054054,
+            -0.12207207207207227
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

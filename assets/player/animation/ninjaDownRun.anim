@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ninjaDownRun",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aafe9f75-3073-44ee-ae6f-a15bb62a15de"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "7d81c3f2-da47-44b3-9efe-c2fc2db90bfd"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "aaa7319c-d49e-4f69-b92a-2f2f9e2a7368"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "894c380d-9395-461b-b576-22a26ab60bb5"
+            }
+          },
+          {
+            "frame": 0.31666666666666665,
+            "value": {
+              "__uuid__": "aaa7319c-d49e-4f69-b92a-2f2f9e2a7368"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

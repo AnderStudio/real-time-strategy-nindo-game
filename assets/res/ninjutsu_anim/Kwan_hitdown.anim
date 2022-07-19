@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Kwan_hitdown",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 0.7,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ce662422-4957-4bcf-a7fc-0f301eb6bbea"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "4621f8a1-0fe6-470c-be50-4dd01faa63ff"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4621f8a1-0fe6-470c-be50-4dd01faa63ff"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "anchorY": [
+        {
+          "frame": 0,
+          "value": 0.85,
+          "curve": [
+            1.1220720720720718,
+            -0.007807807807807654,
+            1.004054054054054,
+            -0.12207207207207227
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": 0.5
+        }
+      ]
+    }
+  },
+  "events": []
+}
